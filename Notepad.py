@@ -1,3 +1,4 @@
+# Simple notepad that can create, open, save txt files and have few tools to edit text.
 import tkinter
 from turtle import width
 from PIL import Image, ImageTk 
