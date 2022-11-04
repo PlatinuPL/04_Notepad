@@ -1,0 +1,1 @@
+This is a notepad app to write your own thoughts
